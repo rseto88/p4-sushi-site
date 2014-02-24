@@ -1,4 +1,8 @@
 /* Your Awesome Website */
+footer img {
+	height: 80px;
+	width: 80px;
+}
 
 .top-bar {
 	height: 115px;
@@ -56,6 +60,10 @@
 #gmap {
 width: 291px;
 height: 355px;
+}
+
+footer p {
+	color: red;
 }
 
 

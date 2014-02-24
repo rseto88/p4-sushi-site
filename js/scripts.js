@@ -17,3 +17,9 @@ $(document).ready(function(){
 	console.log('Page Loaded. Lets Do this!');
 
 }); 
+
+$('.selectorClass').socialProfiles({
+email: 'sushimaru@email.com',
+facebook: 'sushimaru',
+twitter: 'sushimaru',
+});
