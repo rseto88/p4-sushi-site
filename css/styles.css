@@ -1,1 +1,78 @@
 /* Your Awesome Website */
+
+.top-bar {
+	height: 115px;
+}
+
+#menu {
+	margin-left: 339px;
+}
+
+.top-bar-section ul li > a {
+	font-size: 1.15em;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+	padding: 0 45px;
+	line-height: 115px;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+.panel {
+	margin-top: 1em;
+}
+
+.about {
+	position: relative;
+}
+
+.about img {
+	position: absolute;
+
+}
+
+.about h1, p {
+	padding: 15px;
+	position: absolute;
+	color: white;
+	z-index: 100;
+}
+
+.about p {
+	top: 75px;
+}
+
+.about2 {
+	height: 446px;
+	width: 471px;
+	background: grey;
+	opacity: .8;
+	z-index: 50;
+}
+
+#gmap {
+width: 291px;
+height: 355px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
